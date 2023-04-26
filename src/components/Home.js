@@ -10,7 +10,7 @@ function Home({ isLoggedIn }) {
       <img
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXWjkRvkrEyBK4U4mhOrO1Z9hlR-6iomAOw&usqp=CAU"
         alt="A beautiful image"
-        style={{ width: "50%", height: "auto", display: "block" }}
+        style={{ width: "70%", height: "auto", display: "block" }}
       />
     </div>
   );
