@@ -6,7 +6,12 @@ function Home({ isLoggedIn }) {
 
   return (
     <div>
-      <h1>Home!</h1>
+      <h1>Home page. This is the page u will first see when u log in</h1>
+      <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXWjkRvkrEyBK4U4mhOrO1Z9hlR-6iomAOw&usqp=CAU"
+        alt="A beautiful image"
+        style={{ width: "50%", height: "auto", display: "block" }}
+      />
     </div>
   );
 }
